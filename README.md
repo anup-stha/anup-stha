@@ -1,14 +1,16 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi there, I am Anup Shrestha!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anup-stha.anup-stha)
 <br/>
 </p>
-<div size='20px'> Hi! My name is Anup Shrestha. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! I am a Full Stack Developer & Technology Enthusiast. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+  
 - 🔭 I’m currently working on enhancing my frontend and backend
 
 - 🌱 I’m currently learning NextJS and Typescript 
@@ -30,4 +32,5 @@
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 
-  
+  ## Visitor's Count:
+ ![Visitor's Count](https://profile-counter.glitch.me/{anup-stha}/count.svg)
