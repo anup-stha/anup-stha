@@ -20,7 +20,7 @@
 - 💬 Talk to me about ReactJS, NodeJS and design 
 
 ## &#x1f4c8; GitHub Stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anup-stha&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Anup's GitHub Stats" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup-stha&theme=tokyonight&langs_count=3"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anup-stha&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Anup's GitHub Stats" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup-stha&theme=tokyonight&langs_count=3"
   />
 
   
