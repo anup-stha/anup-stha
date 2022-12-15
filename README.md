@@ -11,10 +11,6 @@
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
   
-- 🔭 I’m currently working on enhancing my frontend and backend
-
-- 🌱 I’m currently learning NextJS and Typescript 
-
 - 👯 I’m looking to collaborate on Full Stack Projects and Open Source Projects 
 
 - 💬 Talk to me about ReactJS, NodeJS and design 
